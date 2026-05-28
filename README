@@ -1,0 +1,14 @@
+# AI, Cloud & Data Science Portfolio 🌍🚀
+
+Welcome! This repository serves as a centralized hub for my production-grade projects, technical experiments, and hands-on implementations across **Google Cloud Platform (GCP)**, **Data Science**, and **Agentic AI**. 
+
+Rather than treating cloud architectures or machine learning models as isolated concepts, this portfolio focuses on building end-to-end, serverless pipelines that solve real-world problems.
+
+---
+
+## 🛠️ Technology Stack & Ecosystem
+
+* **Cloud Infrastructure:** Google Cloud Platform (Cloud Run, GKE, Cloud SQL, BigQuery)
+* **AI & Agentic Frameworks:** Google ADK (Agent Development Kit), Gemini API, Google Antigravity
+* **Data Science & Engineering:** Python, SQLAlchemy, BigQuery ML, Tableau (Data Storytelling)
+* **Environment & Package Management:** `uv` (Fast Python packaging tool)
