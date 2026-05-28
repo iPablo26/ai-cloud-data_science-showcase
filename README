@@ -11,8 +11,10 @@ Rather than treating cloud architectures or machine learning models as isolated 
 
 ## 🛠️ Technology Stack & Ecosystem
 
-* Cloud Infrastructure:** Google Cloud Platform (Cloud Run, GKE, Cloud SQL, BigQuery)
+- Cloud Infrastructure:** Google Cloud Platform (Cloud Run, GKE, Cloud SQL, BigQuery)
 
-* AI & Agentic Frameworks:** Google ADK (Agent Development Kit), Gemini API, Google Antigravity
-* Data Science & Engineering:** Python, SQLAlchemy, BigQuery ML, Tableau (Data Storytelling)
-* Environment & Package Management:** `uv` (Fast Python packaging tool)
+- AI & Agentic Frameworks:** Google ADK (Agent Development Kit), Gemini API, Google Antigravity
+
+- Data Science & Engineering:** Python, SQLAlchemy, BigQuery ML, Tableau (Data Storytelling)
+
+- Environment & Package Management:** `uv` (Fast Python packaging tool)
